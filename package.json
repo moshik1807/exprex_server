@@ -19,5 +19,6 @@
   "homepage": "https://github.com/moshik1807/exprex_server#readme",
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "type": "module"
 }
